@@ -1,9 +1,13 @@
 <p align="center">
-  <img
-    src="assets/zetxero-z-monochrome.svg"
-    alt="ZETXERO Logo"
-    width="160"
-  >
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="assets/zetxero-z-monochrome.svg">
+    <img
+      src="assets/zetxero-z-monochrome.svg"
+      width="120"
+      alt="ZETXERO Logo">
+  </picture>
 </p>
 
 <h1 align="center">Lik</h1>

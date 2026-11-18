@@ -1,8 +1,8 @@
 <p align="center">
   <img
     src="assets/zetxero-z-monochrome.svg"
-    width="120"
-    alt="ZETXERO Z Logo"
+    alt="ZETXERO Logo"
+    width="160"
   >
 </p>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Lik</h1>
+<h1 align="center">ZETXERO</h1>
 
 <p align="center">
   <em>Learning Python and AI on a phone. Building the tools I actually use.</em>

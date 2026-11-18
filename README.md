@@ -67,5 +67,5 @@ Python, JavaScript, HTML/CSS, Flask, FastAPI, SQLite, Git. Whatever already does
   <a href="https://line.me/ti/p/~zetxero-ceo_yok"><img src="https://img.shields.io/badge/line-111111?style=flat-square" alt="LINE"></a>
   <a href="https://t.me/zetxero-ceoyok"><img src="https://img.shields.io/badge/telegram-111111?style=flat-square" alt="Telegram"></a>
   <a href="https://discord.com/users/743280483462283344"><img src="https://img.shields.io/badge/discord-111111?style=flat-square" alt="Discord"></a>
-  <a href="https://www.facebook.com/share/1FNdtHvx4F/"><img src="https://img.shields.io/badge/facebook-111111?style=flat-square" alt="Facebook"></a>
+  <a href="https://www.facebook.com/share/1FNdtHvx4F/"><img src="https://img.shields.io/badge/facebook-111111?style=flat-square" alt="Facebook" logo="Facebook“></a>
 </p>

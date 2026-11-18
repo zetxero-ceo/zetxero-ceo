@@ -1,9 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="100 40 1300 920" role="img" aria-label="ZETXERO logo">
-  <rect x="100" y="40" width="1300" height="920" rx="120" fill="#000000"/>
-  <g fill="#ffffff">
-  <path d="M830 195 C1050 95 1390 55 1362 165 C1340 255 1200 380 1075 470 C1170 375 1295 255 1292 200 C1288 145 1060 150 830 195Z"/>
-  <path d="M482 462 C250 540 100 660 138 762 C178 862 450 850 772 756 C480 815 232 815 212 740 C192 662 330 560 482 462Z"/>
-  <path d="M772 760 C560 858 330 910 178 932 C380 880 600 822 772 760Z"/>
-  <path d="M418 230 L1222 230 L850 572 L1332 572 L1110 730 L295 730 L712 342 L305 342Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">ZETXERO Z mark</title>
+  <desc id="desc">A bold geometric white Z emblem on a black background.</desc>
+  <rect width="512" height="512" rx="96" fill="#000"/>
+  <g fill="#fff">
+    <path d="M92 112h328l-18 52-213 184h231l-18 52H76l18-52 213-184H74z"/>
+    <path d="M108 126h267l-34 27H139z" opacity=".18"/>
+    <path d="M139 386h267l-34 14H122z" opacity=".18"/>
   </g>
+  <path d="M72 194l22-64 22-18-19 58zM396 382l22-58 22-18-19 52z" fill="#fff"/>
 </svg>

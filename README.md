@@ -66,31 +66,83 @@ Python, JavaScript, HTML/CSS, Flask, FastAPI, SQLite, Git. Whatever already does
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-  <a href="https://zetxero-ceo.github.io/portfolio/">
-    <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="32" alt="Portfolio">
+  <a href="https://github.com/zetxero-ceo" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:zetxero-ceo@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Email">
+  <a href="https://zetxero-ceo.github.io/portfolio/" title="Portfolio">
+    <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e" width="32" alt="Portfolio">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zetxero-ceo--070080414">
+  <a href="https://www.linkedin.com/in/zetxero-ceo--070080414" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="https://line.me/ti/p/~zetxero-ceo_yok">
-    <img src="https://cdn.simpleicons.org/line/06C755" width="32" alt="LINE">
+  <a href="mailto:zetxero-ceo@gmail.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail">
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/zetxero-ceoyok">
+  <a href="https://t.me/zetxero-ceoyok" title="Telegram">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" alt="Telegram">
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/743280483462283344">
+  <a href="https://line.me/ti/p/~zetxero-ceo_yok" title="LINE">
+    <img src="https://cdn.simpleicons.org/line/06C755" width="32" alt="LINE">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/743280483462283344" title="Discord">
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" alt="Discord">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1FNdtHvx4F/">
+  <a href="https://www.facebook.com/share/1FNdtHvx4F/" title="Facebook">
     <img src="https://cdn.simpleicons.org/facebook/0866FF" width="32" alt="Facebook">
   </a>
+</p>
+
+<h3 align="center">Developer Platforms</h3>
+
+<p align="center">
+  <a href="https://github.com/zetxero-ceo">
+    <img src="https://cdn.simpleicons.org/git/FFFFFF" width="28" alt="Git">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zetxero-ceo">
+    <img src="https://cdn.simpleicons.org/python/3776AB" width="28" alt="Python">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/zetxero-ceo">
+    <img src="https://cdn.simpleicons.org/devdotto/FFFFFF" width="28" alt="DEV Community">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/33244558/zetxero-ceo-?tab=profile">
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="28" alt="Stack Overflow">
+  </a>
+</p>
+
+<h3 align="center">Social Media</h3>
+
+<p align="center">
+  <a href="https://x.com/itsmelik_yok">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="28" alt="X">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/shrt_ykk.56">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@zetxero-ceo29lik">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="28" alt="YouTube">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@zetxero-ceo_cc">
+    <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="28" alt="TikTok">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@zetxero-ceo">
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="28" alt="Medium">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Building · Learning · Sharing</sub>
 </p>

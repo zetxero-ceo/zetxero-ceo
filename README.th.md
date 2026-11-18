@@ -76,7 +76,7 @@ Python, JavaScript, HTML/CSS, Flask, FastAPI, SQLite, Git ใช้อะไร�
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub">
   </a>
   &nbsp;&nbsp;
-  <a href="https://zetxero-ceo.github.io/portfolio/" title="Portfolio">
+  <a href="https://zetxero-ceo.github.io/zetxero-ceo/" title="Portfolio">
     <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e" width="32" alt="Portfolio">
   </a>
   &nbsp;&nbsp;

@@ -80,11 +80,11 @@ Python, JavaScript, HTML/CSS, Flask, FastAPI, SQLite, Git. Whatever already does
     <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e" width="32" alt="Portfolio">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zetxero-ceo--070080414" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/zet-xero-05958a450 " title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:zetxero-ceo@gmail.com" title="Email">
+  <a href="mailto:zetxero.info@gmail.com" title="Email">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail">
   </a>
   &nbsp;&nbsp;
@@ -246,5 +246,3 @@ Python, JavaScript, HTML/CSS, Flask, FastAPI, SQLite, Git. Whatever already does
 <p align="center">
   <sub>Building independently. Learning continuously. Sharing openly.</sub>
 </p>
-
-<!-- ================= END CONTACT ================= -->

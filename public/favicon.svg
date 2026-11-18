@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#1f6f5c"/><text x="32" y="43" font-family="system-ui,sans-serif" font-size="30" font-weight="700" fill="#fff" text-anchor="middle">P</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">ZETXERO Z mark</title>
+  <desc id="desc">A bold geometric white Z emblem on a black background.</desc>
+  <rect width="512" height="512" rx="96" fill="#000"/>
+  <g fill="#fff">
+    <path d="M92 112h328l-18 52-213 184h231l-18 52H76l18-52 213-184H74z"/>
+    <path d="M108 126h267l-34 27H139z" opacity=".18"/>
+    <path d="M139 386h267l-34 14H122z" opacity=".18"/>
+  </g>
+  <path d="M72 194l22-64 22-18-19 58zM396 382l22-58 22-18-19 52z" fill="#fff"/>
+</svg>

@@ -1,4 +1,4 @@
-# Cloudflare Pages: security headers ทุกหน้า
+# Cloudflare Workers (static assets): security headers ทุกหน้า — บน GitHub Pages ไฟล์นี้ไม่มีผล
 /*
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY

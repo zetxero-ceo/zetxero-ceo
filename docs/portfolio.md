@@ -67,6 +67,9 @@ yarn build          # สร้างไฟล์จริงใน dist/
 เว็บผูกกับ repo ผ่าน Workers Builds (ต้องตั้งใน Cloudflare ให้ชี้ `zetxero-ceo/zetxero-ceo`) **push ขึ้น `main` = เว็บจริงอัปเดตเองภายในประมาณ 1 นาที**
 (ไม่ต้องรันคำสั่ง deploy บนเครื่อง)
 
+> **ตอนผูก repo ใน Cloudflare:** ตั้ง Branch control ให้ build เฉพาะ `main` (ปิด "Builds for non-production branches")
+> เพราะ workflow Snake push รูปไป branch `output` ทุก 12 ชั่วโมง branch นั้นไม่มี `package.json` ถ้าเปิดไว้จะ build ล้มวันละ 2 ครั้ง
+
 ทุกครั้งที่ push Cloudflare จะทำตามนี้:
 
 1. ติดตั้ง Node ตาม `.node-version` (22) และ Yarn ตาม `packageManager` ใน `package.json` (1.22.22)

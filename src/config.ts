@@ -13,8 +13,8 @@ export const SITE = {
 // ลิงก์โซเชียล — ลบบรรทัดที่ไม่ใช้ได้เลย
 export const SOCIALS: { label: string; href: string }[] = [
   { label: 'GitHub', href: 'https://github.com/zetxero-ceo' },
-  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/zetxero-ceo--070080414' },
-  { label: 'Facebook', href: 'https://www.facebook.com/share/1FNdtHvx4F/' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/zet-xero-05958a450' },
+  { label: 'Facebook', href: 'https://www.facebook.com/share/1HkCm9ceAU/' },
 ];
 
 // ฟอร์มติดต่อ ใช้ Web3Forms (ฟรี) — สมัครที่ https://web3forms.com ด้วยอีเมลที่จะรับข้อความ

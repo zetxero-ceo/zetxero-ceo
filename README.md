@@ -1,8 +1,9 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-    <img src="assets/logo.svg" width="120" alt="ZETXERO logo">
-  </picture>
+  <img
+    src="assets/zetxero-z-monochrome.svg"
+    width="120"
+    alt="ZETXERO Z Logo"
+  >
 </p>
 
 <h1 align="center">ZETXERO</h1>

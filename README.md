@@ -88,7 +88,7 @@ Python, JavaScript, HTML/CSS, Flask, FastAPI, SQLite, Git. Whatever already does
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1FNdtHvx4F/" title="Facebook">
+  <a href="https://https://www.facebook.com/share/1HkCm9ceAU/" title="Facebook">
     <img src="https://cdn.simpleicons.org/facebook/0866FF" width="32" alt="Facebook">
   </a>
 </p>

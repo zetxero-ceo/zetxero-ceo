@@ -63,14 +63,34 @@
 
 Python, JavaScript, HTML/CSS, Flask, FastAPI, SQLite, Git ใช้อะไรก็ได้ที่ทำงานนั้นได้อยู่แล้ว
 
-## ติดต่อ
+<h2 align="center">Connect with me</h2>
 
 <p align="center">
-  <a href="https://zetxero-ceo.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-111111?style=flat-square" alt="Portfolio"></a>
-  <a href="mailto:zetxero-ceo@gmail.com"><img src="https://img.shields.io/badge/email-111111?style=flat-square" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/zetxero-ceo--070080414"><img src="https://img.shields.io/badge/linkedin-111111?style=flat-square" alt="LinkedIn"></a>
-  <a href="https://line.me/ti/p/~zetxero-ceo_yok"><img src="https://img.shields.io/badge/line-111111?style=flat-square" alt="LINE"></a>
-  <a href="https://t.me/zetxero-ceoyok"><img src="https://img.shields.io/badge/telegram-111111?style=flat-square" alt="Telegram"></a>
-  <a href="https://discord.com/users/743280483462283344"><img src="https://img.shields.io/badge/discord-111111?style=flat-square" alt="Discord"></a>
-  <a href="https://www.facebook.com/share/1FNdtHvx4F/"><img src="https://img.shields.io/badge/facebook-111111?style=flat-square" alt="Facebook"></a>
+  <a href="https://zetxero-ceo.github.io/portfolio/">
+    <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="32" alt="Portfolio">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:zetxero-ceo@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zetxero-ceo--070080414">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://line.me/ti/p/~zetxero-ceo_yok">
+    <img src="https://cdn.simpleicons.org/line/06C755" width="32" alt="LINE">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/zetxero-ceoyok">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" alt="Telegram">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/743280483462283344">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" alt="Discord">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/1FNdtHvx4F/">
+    <img src="https://cdn.simpleicons.org/facebook/0866FF" width="32" alt="Facebook">
+  </a>
 </p>

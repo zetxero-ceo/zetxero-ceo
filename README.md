@@ -63,7 +63,13 @@ Everything else: **[all-in-one](https://zetxero-ceo.github.io/all-in-one/)**.
 
 Python, JavaScript, HTML/CSS, Flask, FastAPI, SQLite, Git. Whatever already does the job.
 
-<h2 align="center">Connect with me</h2>
+<!-- ================= CONTACT ================= -->
+
+<h2 align="center">Connect with ZETXERO</h2>
+
+<p align="center">
+  <em>Let's build, learn and create something together.</em>
+</p>
 
 <p align="center">
   <a href="https://github.com/zetxero-ceo" title="GitHub">
@@ -82,67 +88,163 @@ Python, JavaScript, HTML/CSS, Flask, FastAPI, SQLite, Git. Whatever already does
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail">
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/zetxero-ceoyok" title="Telegram">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" alt="Telegram">
+  <a href="https://www.facebook.com/share/1FNdtHvx4F/" title="Facebook">
+    <img src="https://cdn.simpleicons.org/facebook/0866FF" width="32" alt="Facebook">
+  </a>
+</p>
+
+<!-- DEVELOPER & COMMUNITY -->
+<h3 align="center">Developer & Community</h3>
+
+<p align="center">
+  <!-- TODO: Add GitLab profile URL -->
+  <a href="#" title="GitLab">
+    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="32" alt="GitLab">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/33244558/zetxero-ceo-?tab=profile" title="Stack Overflow">
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="32" alt="Stack Overflow">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/zetxero-ceo" title="DEV.to">
+    <img src="https://cdn.simpleicons.org/devdotto/FFFFFF" width="32" alt="DEV.to">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add Freelancer profile URL -->
+  <a href="#" title="Freelancer">
+    <img src="https://cdn.simpleicons.org/freelancer/29B2FE" width="32" alt="Freelancer">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add Behance profile URL -->
+  <a href="#" title="Behance">
+    <img src="https://cdn.simpleicons.org/behance/1769FF" width="32" alt="Behance">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add Product Hunt profile URL -->
+  <a href="#" title="Product Hunt">
+    <img src="https://cdn.simpleicons.org/producthunt/DA552F" width="32" alt="Product Hunt">
+  </a>
+</p>
+
+<!-- AI & AUTOMATION -->
+<h3 align="center">AI & Automation</h3>
+
+<p align="center">
+  <!-- TODO: Add OpenAI profile URL -->
+  <a href="#" title="OpenAI">
+    <img src="https://api.iconify.design/simple-icons/openai.svg?color=%23ffffff" width="32" alt="OpenAI">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add Anthropic profile URL -->
+  <a href="#" title="Anthropic">
+    <img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="32" alt="Anthropic">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add Ollama profile URL -->
+  <a href="#" title="Ollama">
+    <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="32" alt="Ollama">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add n8n profile URL -->
+  <a href="#" title="n8n">
+    <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="32" alt="n8n">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add Make profile URL -->
+  <a href="#" title="Make">
+    <img src="https://cdn.simpleicons.org/make/6D4AFF" width="32" alt="Make">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add Google AI profile URL -->
+  <a href="#" title="Google AI">
+    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="32" alt="Google AI">
+  </a>
+</p>
+
+<!-- SOCIAL MEDIA -->
+<h3 align="center">Social Media</h3>
+
+<p align="center">
+  <a href="https://www.instagram.com/shrt_ykk.56" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.threads.com/@shrt_ykk.56" title="Threads">
+    <img src="https://cdn.simpleicons.org/threads/FFFFFF" width="32" alt="Threads">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/itsmelik_yok" title="X">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="32" alt="X">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@zetxero-ceo29lik" title="YouTube">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="32" alt="YouTube">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@zetxero-ceo_cc" title="TikTok">
+    <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="32" alt="TikTok">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add Pinterest profile URL -->
+  <a href="#" title="Pinterest">
+    <img src="https://cdn.simpleicons.org/pinterest/BD081C" width="32" alt="Pinterest">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add Reddit profile URL -->
+  <a href="#" title="Reddit">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="32" alt="Reddit">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@zetxero-ceo" title="Medium">
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="32" alt="Medium">
+  </a>
+</p>
+
+<!-- MESSAGING & COMMUNITY -->
+<h3 align="center">Messaging & Community</h3>
+
+<p align="center">
+  <a href="https://discord.com/users/743280483462283344" title="Discord">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" alt="Discord">
   </a>
   &nbsp;&nbsp;
   <a href="https://line.me/ti/p/~zetxero-ceo_yok" title="LINE">
     <img src="https://cdn.simpleicons.org/line/06C755" width="32" alt="LINE">
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/743280483462283344" title="Discord">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" alt="Discord">
+  <!-- TODO: Add WhatsApp contact URL -->
+  <a href="#" title="WhatsApp">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="32" alt="WhatsApp">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1FNdtHvx4F/" title="Facebook">
-    <img src="https://cdn.simpleicons.org/facebook/0866FF" width="32" alt="Facebook">
+  <!-- TODO: Add Messenger contact URL -->
+  <a href="#" title="Messenger">
+    <img src="https://cdn.simpleicons.org/messenger/0866FF" width="32" alt="Messenger">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add Slack profile or workspace URL -->
+  <a href="#" title="Slack">
+    <img src="https://api.iconify.design/logos/slack-icon.svg" width="32" alt="Slack">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/zetxero-ceoyok" title="Telegram">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" alt="Telegram">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add Signal contact URL -->
+  <a href="#" title="Signal">
+    <img src="https://cdn.simpleicons.org/signal/3A76F0" width="32" alt="Signal">
+  </a>
+  &nbsp;&nbsp;
+  <!-- TODO: Add Twitch channel URL -->
+  <a href="#" title="Twitch">
+    <img src="https://cdn.simpleicons.org/twitch/9146FF" width="32" alt="Twitch">
   </a>
 </p>
 
-<h3 align="center">Developer Platforms</h3>
-
+<!-- FOOTER -->
 <p align="center">
-  <a href="https://github.com/zetxero-ceo">
-    <img src="https://cdn.simpleicons.org/git/FFFFFF" width="28" alt="Git">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zetxero-ceo">
-    <img src="https://cdn.simpleicons.org/python/3776AB" width="28" alt="Python">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://dev.to/zetxero-ceo">
-    <img src="https://cdn.simpleicons.org/devdotto/FFFFFF" width="28" alt="DEV Community">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/33244558/zetxero-ceo-?tab=profile">
-    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="28" alt="Stack Overflow">
-  </a>
+  <sub>Building independently. Learning continuously. Sharing openly.</sub>
 </p>
 
-<h3 align="center">Social Media</h3>
-
-<p align="center">
-  <a href="https://x.com/itsmelik_yok">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="28" alt="X">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/shrt_ykk.56">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" alt="Instagram">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@zetxero-ceo29lik">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="28" alt="YouTube">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zetxero-ceo_cc">
-    <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="28" alt="TikTok">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@zetxero-ceo">
-    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="28" alt="Medium">
-  </a>
-</p>
-
-<p align="center">
-  <sub>Building · Learning · Sharing</sub>
-</p>
+<!-- ================= END CONTACT ================= -->

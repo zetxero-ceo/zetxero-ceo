@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:36BCF7&height=160&section=header&animation=fadeIn" width="100%" alt="">
+
 <p align="center">
   <picture>
     <source
@@ -10,17 +12,22 @@
   </picture>
 </p>
 
-<h1 align="center">Lik</h1>
+<h1 align="center">ZETXERO</h1>
 
 <p align="center">
-  <em>เรียน Python และ AI บนมือถือ สร้างเครื่องมือที่ได้ใช้จริง</em>
+  <a href="https://github.com/zetxero-ceo"><img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=560&lines=Learning+Python+and+AI+on+a+phone;Building+the+tools+I+actually+use;Writing+lessons+for+other+learners;Building+with+Claude+Code" alt="Learning Python and AI on a phone. Building the tools I actually use."></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/learning-Python%20%C2%B7%20AI%20%C2%B7%20MCP-111111?style=flat-square" alt="กำลังเรียน Python, AI, MCP">
-  <img src="https://img.shields.io/badge/builds%20with-Claude%20Code-111111?style=flat-square" alt="สร้างงานร่วมกับ Claude Code">
-  <img src="https://img.shields.io/badge/from-Thailand-111111?style=flat-square" alt="จากประเทศไทย">
-  <img src="https://img.shields.io/badge/open%20to-junior%20dev%20roles-111111?style=flat-square" alt="สนใจงานนักพัฒนาระดับเริ่มต้น">
+  <img src="https://img.shields.io/badge/learning-Python%20%C2%B7%20AI%20%C2%B7%20MCP-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Learning Python, AI, MCP">
+  <img src="https://img.shields.io/badge/builds%20with-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Builds with Claude Code">
+  <img src="https://img.shields.io/badge/from-Thailand-A51931?style=for-the-badge" alt="From Thailand">
+  <img src="https://img.shields.io/badge/open%20to-junior%20dev%20roles-2CB67D?style=for-the-badge" alt="Open to junior developer roles">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zetxero-ceo&label=Profile%20views&color=7F5AF0&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/zetxero-ceo?label=Followers&style=flat-square&color=36BCF7" alt="Followers">
 </p>
 
 <p align="center">
@@ -31,37 +38,103 @@
 
 มือถือ Termux และคำถามอีกเยอะ งานข้างล่างส่วนใหญ่เริ่มจากปัญหาที่เจอเอง แล้วกลายเป็นของที่แบ่งให้คนเรียนด้วยกันได้
 
-## เรียนและสอน
+## 🛠️ เครื่องมือที่ใช้
 
-| โปรเจกต์ | คืออะไร |
-|---------|------------|
-| [claude-lab](https://github.com/sakzeed/claude-lab) | บทเรียนภาษาไทยตั้งแต่พื้นฐาน AI ไปจนถึง agent, MCP, skill, hook และ plugin พร้อมแล็บ Python ที่รันได้ |
-| [opencode-lab](https://github.com/sakzeed/opencode-lab) | บทเรียน OpenCode, Linux, Git และ Go พร้อมแล็บและ CI |
-| [python-lessons](https://github.com/zetxero-ceo/python-lessons) | คอร์ส Python สู่การวิเคราะห์ข้อมูล 5 บท พร้อมแบบฝึกหัด &middot; [เว็บ](https://zetxero-ceo.github.io/python-lessons/) |
-| [python](https://github.com/zetxero-ceo/python) | เว็บเรียน Python &middot; [เว็บ](https://zetxero-ceo.github.io/python/) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,fastapi,sqlite,astro,ts,nodejs,git,github,linux,bash,cloudflare,firebase&perline=8" alt="Python, JavaScript, HTML, CSS, Flask, FastAPI, SQLite, Astro, TypeScript, Node.js, Git, GitHub, Linux, Bash, Cloudflare, Firebase">
+</p>
 
-## สร้างร่วมกับ AI
+## 📌 ผลงานเด่น
 
-กำหนดว่าต้องการอะไรและทดสอบทุกอย่างเอง ส่วนโค้ดส่วนใหญ่ Claude Code เป็นคนเขียน
+<p align="center">
+  <a href="https://github.com/sakzeed/claude-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&hide_border=true&username=sakzeed&repo=claude-lab" alt="claude-lab"></a>
+  <a href="https://github.com/sakzeed/opencode-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&hide_border=true&username=sakzeed&repo=opencode-lab" alt="opencode-lab"></a>
+  <a href="https://github.com/zetxero-ceo/python-lessons"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&hide_border=true&username=zetxero-ceo&repo=python-lessons" alt="python-lessons"></a>
+  <a href="https://github.com/zetxero-ceo/Diary"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&hide_border=true&username=zetxero-ceo&repo=Diary" alt="Diary"></a>
+  <a href="https://github.com/zetxero-ceo/cash-manager"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&hide_border=true&username=zetxero-ceo&repo=cash-manager" alt="cash-manager"></a>
+  <a href="https://github.com/zetxero-ceo/pos-mobile"><img src="https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&hide_border=true&username=zetxero-ceo&repo=pos-mobile" alt="pos-mobile"></a>
+</p>
 
-| โปรเจกต์ | คืออะไร |
-|---------|------------|
-| [Diary](https://github.com/zetxero-ceo/Diary) | เว็บบันทึกภาษาไทย เขียนจากมือถือผ่านหน้า `/admin/` (Astro, Sveltia CMS) &middot; [เว็บ](https://zetxero-ceo.github.io/Diary/) |
-| [cash-manager](https://github.com/zetxero-ceo/cash-manager) | บันทึกรายรับรายจ่ายและหนี้ ซิงก์ข้ามเครื่อง ใช้ออฟไลน์ได้แบบ PWA (Firebase) &middot; [เว็บ](https://zetxero-ceo.github.io/cash-manager/) |
+## 📂 repo ทั้งหมด
 
-## เครื่องมือสำหรับงานจริง
+<details open>
+<summary><b>ใช้งานอยู่ (26)</b></summary>
 
-| โปรเจกต์ | คืออะไร |
-|---------|------------|
-| [pos-mobile](https://github.com/zetxero-ceo/pos-mobile) | ระบบขายหน้าร้านสำหรับร้านเล็ก มี backend FastAPI ไว้สำรองข้อมูล &middot; [เว็บ](https://zetxero-ceo.github.io/pos-mobile/) |
-| [shiftmate](https://github.com/zetxero-ceo/shiftmate) | จัดตารางกะพนักงานรายสัปดาห์ ส่งออก JSON, CSV และ XLSX &middot; [เว็บ](https://zetxero-ceo.github.io/shiftmate/) |
-| [vender](https://github.com/zetxero-ceo/vender) | จัดการสต๊อกตู้ Vending ใช้งานออฟไลน์ได้ &middot; [เว็บ](https://zetxero-ceo.github.io/vender/) |
+| Repo | คืออะไร | ภาษา | เว็บ |
+|---|---|---|:-:|
+| [all-in-one](https://github.com/zetxero-ceo/all-in-one) | Index of all my projects | HTML | [เว็บ](https://zetxero-ceo.github.io/all-in-one/) |
+| [budgetctrl](https://github.com/zetxero-ceo/budgetctrl) | แอปบันทึกการเงิน หนี้สิน งบประมาณ เป้าหมายออม | JavaScript | [เว็บ](https://zetxero-ceo.github.io/budgetctrl/) |
+| [Cash-Flow](https://github.com/zetxero-ceo/Cash-Flow) | Personal finance management This was one of my early projects.  | JavaScript | [เว็บ](https://zetxero-ceo.github.io/Cash-Flow/) |
+| [cash-manager](https://github.com/zetxero-ceo/cash-manager) | Income, expense and debt tracker (PWA, Firebase) | JavaScript | [เว็บ](https://zetxero-ceo.github.io/cash-manager/) |
+| [cashrc](https://github.com/zetxero-ceo/cashrc) | Created via Acode | JavaScript |  |
+| [community](https://github.com/zetxero-ceo/community) | Community hub for Saharat Labs — discussions, ideas, and announcements |  |  |
+| [demo-repository](https://github.com/zetxero-ceo/demo-repository) | A code repository designed to show the best GitHub has to offer. | HTML |  |
+| [Diary](https://github.com/zetxero-ceo/Diary) | Thai notes website, written from a phone | TypeScript | [เว็บ](https://zetxero-ceo.github.io/Diary/) |
+| [ivenmachine](https://github.com/zetxero-ceo/ivenmachine) | Vending machine toolkit: status, coins, slot map, refill sheets | JavaScript | [เว็บ](https://zetxero-ceo.github.io/ivenmachine/) |
+| [learnhtml5](https://github.com/zetxero-ceo/learnhtml5) | Learn HTML5 | HTML | [เว็บ](https://zetxero-ceo.github.io/learnhtml5/) |
+| [money-app](https://github.com/zetxero-ceo/money-app) | Income/expense tracker on Cloudflare Workers with MCP | TypeScript |  |
+| [pos-mobile](https://github.com/zetxero-ceo/pos-mobile) | Point of sale + FastAPI backup backend | Python | [เว็บ](https://zetxero-ceo.github.io/pos-mobile/) |
+| [project-skills](https://github.com/zetxero-ceo/project-skills) | Skills repository organized by project |  |  |
+| [python](https://github.com/zetxero-ceo/python) | A website for learning Python | JavaScript | [เว็บ](https://zetxero-ceo.github.io/python/) |
+| [python-lessons](https://github.com/zetxero-ceo/python-lessons) | คอร์สเรียน Python สู่การวิเคราะห์ข้อมูล — 5 บทเรียน พร้อมแบบฝึกหัดและเฉลย | Python | [เว็บ](https://zetxero-ceo.github.io/python-lessons/) |
+| [root-home](https://github.com/zetxero-ceo/root-home) | Home directory container with independent projects (Cash-Flow, pos-mobile, shiftmate, python-lessons, time-plan PWA, etc.) | JavaScript |  |
+| [Saharat-labs.github.io](https://github.com/zetxero-ceo/Saharat-labs.github.io) | Official website for Saharat Labs — AI agents, tools, and experiments | HTML | [เว็บ](https://zetxero-ceo.github.io/Saharat-labs.github.io/) |
+| [salary](https://github.com/zetxero-ceo/salary) | record salary of CPALL | JavaScript | [เว็บ](https://zetxero-ceo.github.io/salary/) |
+| [shiftmate](https://github.com/zetxero-ceo/shiftmate) | Weekly staff shift planner | JavaScript | [เว็บ](https://zetxero-ceo.github.io/shiftmate/) |
+| [tasky](https://github.com/zetxero-ceo/tasky) | Task manager (Python CLI) | Python |  |
+| [tasky-web](https://github.com/zetxero-ceo/tasky-web) | Task manager (web) | CSS | [เว็บ](https://zetxero-ceo.github.io/tasky-web/) |
+| [timein-out](https://github.com/zetxero-ceo/timein-out) | Clock-in / clock-out log | JavaScript | [เว็บ](https://zetxero-ceo.github.io/timein-out/) |
+| [vender](https://github.com/zetxero-ceo/vender) | Offline-first vending stock manager | JavaScript | [เว็บ](https://zetxero-ceo.github.io/vender/) |
+| [zetxero-ceo](https://github.com/zetxero-ceo/zetxero-ceo) | This profile + portfolio website | HTML | [เว็บ](https://zetxero-ceo.github.io/zetxero-ceo/) |
+| [claude-lab](https://github.com/sakzeed/claude-lab) | Thai lessons: AI, agents, MCP, skills, hooks, plugins | Python | [เว็บ](https://sakzeed.github.io/claude-lab/) |
+| [opencode-lab](https://github.com/sakzeed/opencode-lab) | Lessons: OpenCode, Linux, Git, Go | Go | [เว็บ](https://sakzeed.github.io/opencode-lab/) |
 
-ที่เหลือทั้งหมด: **[all-in-one](https://zetxero-ceo.github.io/all-in-one/)**
+</details>
 
-## เครื่องมือที่ใช้
+<details>
+<summary><b>Fork (3)</b></summary>
 
-Python, JavaScript, HTML/CSS, Flask, FastAPI, SQLite, Git ใช้อะไรก็ได้ที่ทำงานนั้นได้อยู่แล้ว
+| Repo | คืออะไร | ภาษา | เว็บ |
+|---|---|---|:-:|
+| [member-team](https://github.com/zetxero-ceo/member-team) | Fork: MERN team member app | JavaScript |  |
+| [opencode-sentry-monitor](https://github.com/zetxero-ceo/opencode-sentry-monitor) | Use Sentry Agent Monitoring to add observability to your Opencode | TypeScript |  |
+| [packaging.python.org](https://github.com/zetxero-ceo/packaging.python.org) | Python Packaging User Guide | Python |  |
+
+</details>
+
+<details>
+<summary><b>เก็บถาวร (6)</b></summary>
+
+| Repo | คืออะไร | ภาษา | เว็บ |
+|---|---|---|:-:|
+| [budget](https://github.com/zetxero-ceo/budget) | Merged into Cash-Flow | HTML | [เว็บ](https://zetxero-ceo.github.io/budget/) |
+| [portfolio](https://github.com/zetxero-ceo/portfolio) | Moved into zetxero-ceo | HTML |  |
+| [POS_MB](https://github.com/zetxero-ceo/POS_MB) | Personal Store tracker | HTML | [เว็บ](https://zetxero-ceo.github.io/POS_MB/) |
+| [project](https://github.com/zetxero-ceo/project) |  |  |  |
+| [vending-status](https://github.com/zetxero-ceo/vending-status) | Merged into ivenmachine | HTML | [เว็บ](https://zetxero-ceo.github.io/vending-status/) |
+| [zetxero-info](https://github.com/zetxero-ceo/zetxero-info) |  |  |  |
+
+</details>
+
+## 📊 สถิติ GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zetxero-ceo&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetxero-ceo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zetxero-ceo&theme=tokyonight&hide_border=true" alt="GitHub streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zetxero-ceo&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph">
+</p>
+
+### 🐍 งูกิน contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zetxero-ceo/zetxero-ceo/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/zetxero-ceo/zetxero-ceo/output/github-snake.svg">
+</picture>
 
 <!-- ================= CONTACT ================= -->
 
@@ -80,15 +153,15 @@ Python, JavaScript, HTML/CSS, Flask, FastAPI, SQLite, Git ใช้อะไร�
     <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e" width="32" alt="Portfolio">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zetxero-ceo--070080414" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/zet-xero-05958a450" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="32" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:zetxero-ceo@gmail.com" title="Email">
+  <a href="mailto:zetxero.info@gmail.com" title="Email">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" alt="Gmail">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1FNdtHvx4F/" title="Facebook">
+  <a href="https://www.facebook.com/share/1HkCm9ceAU/" title="Facebook">
     <img src="https://cdn.simpleicons.org/facebook/0866FF" width="32" alt="Facebook">
   </a>
 </p>
@@ -248,3 +321,5 @@ Python, JavaScript, HTML/CSS, Flask, FastAPI, SQLite, Git ใช้อะไร�
 </p>
 
 <!-- ================= END CONTACT ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:2CB67D,100:7F5AF0&height=110&section=footer" width="100%" alt="">

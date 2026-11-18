@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img src="assets/logo.svg" width="120" alt="ZETXERO logo">
+  </picture>
+</p>
+
 <h1 align="center">ZETXERO</h1>
 
 <p align="center">

@@ -89,13 +89,13 @@
 
 | Project | Description | My Role | Technologies | Link |
 |:--|:--|:--|:--|:--:|
-| 💰 **Cash-Flow** | Personal finance web app for tracking income/expenses, budgets, and Canvas charts | Developed solo: all code, UI, and business logic | HTML, JavaScript, CSS, SheetJS, Canvas | https://github.com/zetxero-main/Cash-Flow |
-| 🏪 **pos-mobile** | Point of Sale system for small shops with barcode scanning and Excel export | Developed solo: all code, UI, and SheetJS/Chart.js integration | HTML, JavaScript, CSS, SheetJS, Chart.js | https://github.com/zetxero-main/pos-mobile |
-| 📅 **shiftmate** | Employee shift scheduling app with JSON, CSV, XLSX export and optional Flask backend | Developed solo: all code, UI, and Flask backend | HTML, JavaScript, CSS, Flask, SQLite | https://github.com/zetxero-main/shiftmate |
-| 🥤 **vender** | Offline-first vending machine stock manager with JSON backup/restore | Developed solo: all code and mobile-first design | HTML, JavaScript, CSS | https://github.com/zetxero-main/vender |
+| 💰 **Cash-Flow** | Personal finance web app for tracking income/expenses, budgets, and Canvas charts | Developed solo: all code, UI, and business logic | HTML, JavaScript, CSS, SheetJS, Canvas | https://github.com/zetxero-ceo/Cash-Flow |
+| 🏪 **pos-mobile** | Point of Sale system for small shops with barcode scanning and Excel export | Developed solo: all code, UI, and SheetJS/Chart.js integration | HTML, JavaScript, CSS, SheetJS, Chart.js | https://github.com/zetxero-ceo/pos-mobile |
+| 📅 **shiftmate** | Employee shift scheduling app with JSON, CSV, XLSX export and optional Flask backend | Developed solo: all code, UI, and Flask backend | HTML, JavaScript, CSS, Flask, SQLite | https://github.com/zetxero-ceo/shiftmate |
+| 🥤 **vender** | Offline-first vending machine stock manager with JSON backup/restore | Developed solo: all code and mobile-first design | HTML, JavaScript, CSS | https://github.com/zetxero-ceo/vender |
 | 🤖 **Olympus** | Multi-platform bots for Telegram (Telegraf) and Discord (discord.js) | Developed solo: all code for both bots | Node.js, Telegraf, discord.js, dotenv | — |
-| 📝 **Diary** | Thai personal notes website, public to read, with posts and photos written from a phone via an `/admin/` editor; categories, drafts and RSS ([live site](https://zetxero-main.github.io/Diary/)) | Defined requirements and tested; built together with Claude Code (AI) | Astro, TypeScript, Sveltia CMS, GitHub Pages, GitHub Actions, Playwright | https://github.com/zetxero-main/Diary |
-| 💵 **cash-manager** | Income/expense tracker with loans, debts/credit cards and recurring items; cloud sync, works offline and installs on phones (PWA) ([live site](https://zetxero-main.github.io/cash-manager/)) | Defined requirements and tested; built together with Claude Code (AI) | HTML, JavaScript, CSS, Firebase (Firestore, Auth), Chart.js, SheetJS, PWA | https://github.com/zetxero-main/cash-manager |
+| 📝 **Diary** | Thai personal notes website, public to read, with posts and photos written from a phone via an `/admin/` editor; categories, drafts and RSS ([live site](https://zetxero-ceo.github.io/Diary/)) | Defined requirements and tested; built together with Claude Code (AI) | Astro, TypeScript, Sveltia CMS, GitHub Pages, GitHub Actions, Playwright | https://github.com/zetxero-ceo/Diary |
+| 💵 **cash-manager** | Income/expense tracker with loans, debts/credit cards and recurring items; cloud sync, works offline and installs on phones (PWA) ([live site](https://zetxero-ceo.github.io/cash-manager/)) | Defined requirements and tested; built together with Claude Code (AI) | HTML, JavaScript, CSS, Firebase (Firestore, Auth), Chart.js, SheetJS, PWA | https://github.com/zetxero-ceo/cash-manager |
 
 <!-- ───── 8) GitHub stats ───── -->
 ## 📊 GitHub Stats

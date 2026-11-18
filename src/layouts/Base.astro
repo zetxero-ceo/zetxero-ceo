@@ -1,0 +1,93 @@
+---
+import '../styles/global.css';
+import { SITE, SOCIALS } from '../config';
+const base = import.meta.env.BASE_URL;
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title, description = SITE.description } = Astro.props;
+const fullTitle = title ? `${title} · ${SITE.name}` : `${SITE.name} — ${SITE.role}`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const path = Astro.url.pathname;
+
+const nav = [
+  { href: `${base}projects/`, label: 'ผลงาน' },
+  { href: `${base}blog/`, label: 'บล็อก' },
+  { href: `${base}about/`, label: 'เกี่ยวกับ' },
+  { href: `${base}contact/`, label: 'ติดต่อ' },
+];
+---
+
+<!doctype html>
+<html lang="th">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap bar">
+        <a href={base} class="brand">{SITE.name}</a>
+        <nav aria-label="เมนูหลัก">
+          {
+            nav.map((item) => (
+              <a href={item.href} aria-current={path.startsWith(item.href) ? 'page' : undefined}>
+                {item.label}
+              </a>
+            ))
+          }
+        </nav>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          {SOCIALS.map((s) => <a href={s.href} rel="me noopener" target="_blank">{s.label}</a>)}
+        </p>
+        <p class="muted">© {new Date().getFullYear()} {SITE.name}</p>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .site-header { border-bottom: 1px solid var(--line); }
+  .bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px 20px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
+  .brand { font-weight: 700; color: var(--text); text-decoration: none; font-size: 1.1rem; }
+  nav { display: flex; flex-wrap: wrap; gap: 4px 18px; }
+  nav a { color: var(--muted); text-decoration: none; }
+  nav a:hover, nav a[aria-current='page'] { color: var(--accent); }
+  main { padding-top: 40px; padding-bottom: 64px; min-height: 60vh; }
+  .site-footer { border-top: 1px solid var(--line); padding: 24px 0; font-size: .9rem; }
+  .site-footer p { margin: .2em 0; display: flex; gap: 16px; flex-wrap: wrap; }
+</style>

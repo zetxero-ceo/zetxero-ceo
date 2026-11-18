@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { SITE } from '../config';
+
+// รวมเทคโนโลยีจากผลงานจริง (ไม่ซ้ำ)
+const projects = await getCollection('projects', ({ data }) => !data.draft);
+const tech = [...new Set(projects.flatMap((p) => p.data.tags))];
+---
+
+<Base title="เกี่ยวกับ" description={`ประวัติและทักษะของ ${SITE.name}`}>
+  <div class="prose">
+    <h1>เกี่ยวกับผม</h1>
+    <p>
+      ผมชื่อ <strong>สหรัฐ ยกทวน</strong> ชื่อเล่น <strong>ลิก</strong> อายุ 22 ปี คนไทย
+      เป็นนักเขียนโค้ดฝึกหัด กำลังเรียนรู้ Python และ AI และเปิดรับโอกาสนักพัฒนาระดับจูเนียร์
+    </p>
+
+    <h2>งานอดิเรก</h2>
+    <p>
+      <span class="tag">เขียนโค้ด</span>
+      <span class="tag">อ่านหนังสือ</span>
+      <span class="tag">เล่นเกม</span>
+    </p>
+
+    <h2>คติประจำใจ</h2>
+    <p class="lead">“อย่ายอมแพ้”</p>
+
+    <h2>เทคโนโลยีที่ใช้ในผลงาน</h2>
+    <p>{tech.map((t) => <span class="tag">{t}</span>)}</p>
+
+    <p><a class="btn" href={`${import.meta.env.BASE_URL}contact/`}>ติดต่อผม</a></p>
+  </div>
+</Base>

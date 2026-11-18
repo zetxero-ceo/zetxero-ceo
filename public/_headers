@@ -1,0 +1,11 @@
+# Cloudflare Pages: security headers ทุกหน้า
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Content-Security-Policy: default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https:; form-action 'self' https://api.web3forms.com; frame-ancestors 'none'; base-uri 'self'
+
+# หน้าเอเจนซี่ (/agency/) ใช้ inline script ยกเว้น CSP ที่เข้มงวดของทั้งเว็บ
+/agency/*
+  ! Content-Security-Policy

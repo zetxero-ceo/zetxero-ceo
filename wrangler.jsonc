@@ -1,0 +1,9 @@
+// ตั้งค่า Cloudflare Workers: เสิร์ฟไฟล์จาก dist/ และใช้ 404.html เมื่อไม่พบหน้า
+{
+  "name": "portfolio",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page"
+  }
+}

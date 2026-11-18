@@ -1,0 +1,60 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { SITE } from '../config';
+const base = import.meta.env.BASE_URL;
+
+const projects = (await getCollection('projects', ({ data }) => !data.draft))
+  .sort((a, b) => a.data.order - b.data.order)
+  .slice(0, 3);
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 3);
+
+const fmt = new Intl.DateTimeFormat('th-TH', { dateStyle: 'long' });
+---
+
+<Base>
+  <section class="hero">
+    {SITE.available && <p class="tag">● พร้อมรับงานใหม่</p>}
+    <h1>สวัสดีครับ ผม{SITE.name}<br /><span class="muted">{SITE.role}</span></h1>
+    <p class="lead">{SITE.tagline}</p>
+    <p class="actions">
+      <a class="btn" href={`${base}contact/`}>ติดต่อจ้างงาน</a>
+      <a class="btn ghost" href={`${base}projects/`}>ดูผลงาน</a>
+    </p>
+  </section>
+
+  <h2>ผลงานล่าสุด</h2>
+  <div class="cards">
+    {
+      projects.map((p) => (
+        <a class="card" href={`${base}projects/${p.id}/`}>
+          <h3>{p.data.title}</h3>
+          <p>{p.data.summary}</p>
+          {p.data.tags.map((t) => <span class="tag">{t}</span>)}
+        </a>
+      ))
+    }
+  </div>
+  <p><a href={`${base}projects/`}>ผลงานทั้งหมด →</a></p>
+
+  <h2>บทความล่าสุด</h2>
+  <ul class="list">
+    {
+      posts.map((post) => (
+        <li>
+          <a href={`${base}blog/${post.id}/`}>{post.data.title}</a>
+          <time datetime={post.data.date.toISOString()}>{fmt.format(post.data.date)}</time>
+        </li>
+      ))
+    }
+  </ul>
+</Base>
+
+<style>
+  .hero { padding: 24px 0 8px; }
+  .lead { font-size: 1.15rem; color: var(--muted); max-width: 600px; }
+  .actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 24px; }
+</style>

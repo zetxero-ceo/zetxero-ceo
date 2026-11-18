@@ -1,0 +1,78 @@
+---
+import Base from '../layouts/Base.astro';
+import { SOCIALS, WEB3FORMS_ACCESS_KEY } from '../config';
+
+const formReady = WEB3FORMS_ACCESS_KEY.trim() !== '';
+const thanksUrl = new URL(`${import.meta.env.BASE_URL}thanks/`, Astro.site).toString();
+---
+
+<Base title="ติดต่อ" description="ติดต่อจ้างงานหรือสอบถามรายละเอียด">
+  <div class="prose">
+    <h1>ติดต่อจ้างงาน</h1>
+    <p class="muted">เล่างานคร่าวๆ ได้เลย ผมจะตอบกลับทางอีเมลภายใน 1–2 วันทำการ</p>
+
+    {
+      formReady ? (
+        <form action="https://api.web3forms.com/submit" method="POST" class="form">
+          <input type="hidden" name="access_key" value={WEB3FORMS_ACCESS_KEY} />
+          <input type="hidden" name="subject" value="มีคนติดต่อจากเว็บพอร์ตโฟลิโอ" />
+          <input type="hidden" name="redirect" value={thanksUrl} />
+          {/* กันบอท: ช่องนี้ซ่อนไว้ คนจริงจะไม่กรอก */}
+          <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" />
+
+          <label>
+            ชื่อ
+            <input type="text" name="name" required minlength="2" maxlength="80" autocomplete="name" />
+          </label>
+          <label>
+            อีเมลสำหรับตอบกลับ
+            <input type="email" name="email" required maxlength="120" autocomplete="email" />
+          </label>
+          <label>
+            ประเภทงาน
+            <select name="type">
+              <option>เว็บไซต์</option>
+              <option>ระบบ/แอป</option>
+              <option>ออกแบบ</option>
+              <option>อื่นๆ</option>
+            </select>
+          </label>
+          <label>
+            รายละเอียดงาน
+            <textarea name="message" required minlength="10" maxlength="3000" rows="6" />
+          </label>
+          <button class="btn" type="submit">ส่งข้อความ</button>
+          <p class="muted small">ข้อมูลที่กรอกใช้เพื่อตอบกลับเรื่องงานเท่านั้น</p>
+        </form>
+      ) : (
+        <p class="notice">ฟอร์มติดต่อยังไม่เปิดใช้งาน ระหว่างนี้ติดต่อผ่านช่องทางด้านล่างได้ครับ</p>
+      )
+    }
+
+    <h2>ช่องทางอื่น</h2>
+    <p class="links">
+      {SOCIALS.map((s) => <a href={s.href} target="_blank" rel="noopener">{s.label}</a>)}
+    </p>
+  </div>
+</Base>
+
+<style>
+  .form { display: grid; gap: 16px; max-width: 520px; }
+  label { display: grid; gap: 6px; font-weight: 600; }
+  input, select, textarea {
+    font: inherit;
+    font-weight: 400;
+    padding: .6em .8em;
+    border-radius: 10px;
+    border: 1px solid var(--line);
+    background: var(--surface);
+    color: var(--text);
+    width: 100%;
+  }
+  input:focus, select:focus, textarea:focus { outline: 2px solid var(--accent); border-color: transparent; }
+  .hp { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+  .btn { justify-self: start; }
+  .small { font-size: .85rem; margin: 0; }
+  .notice { padding: 14px 16px; border-radius: 10px; background: var(--accent-soft); }
+  .links { display: flex; gap: 16px; flex-wrap: wrap; }
+</style>

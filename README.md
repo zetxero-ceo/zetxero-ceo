@@ -12,7 +12,8 @@
   </picture>
 </p>
 
-<h1 align="center">ZETXERO</h1>
+<h1 align="center">
+<div font-size="150px">ZETXERO</h1>
 
 <p align="center">
   <a href="https://github.com/zetxero-ceo"><img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=560&lines=Learning+Python+and+AI+on+a+phone;Building+the+tools+I+actually+use;Writing+lessons+for+other+learners;Building+with+Claude+Code" alt="Learning Python and AI on a phone. Building the tools I actually use."></a>

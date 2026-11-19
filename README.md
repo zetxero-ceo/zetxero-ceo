@@ -143,12 +143,10 @@ A phone, Termux, and a lot of questions. Most of what's below started as a probl
 <p align="center">
   <em>Let's build, learn and create something together.</em>
 </p>
-
 <p align="center">
-  <a href="https://github.com/zetxero-ceo" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub">
-  </a>
-  &nbsp;&nbsp;
+<a href="https://github.com/zetxero-ceo" title="GitHub">
+<img src="https://cdn.simpleicons.org/github/000000" width="32" alt="GitHub">
+</a>
   <a href="https://zetxero-ceo.github.io/zetxero-ceo/" title="Portfolio">
     <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e" width="32" alt="Portfolio">
   </a>

@@ -7,12 +7,13 @@
       srcset="assets/zetxero-z-monochrome.svg">
     <img
       src="assets/zetxero-z-monochrome.svg"
-      width="120"
+      width="150"
       alt="ZETXERO Logo">
   </picture>
 </p>
 
-<h1 align="center">ZETXERO</h1>
+<h1 align="center">
+  <em>ZETXERO</em></h1>
 
 <p align="center">
   <a href="https://github.com/zetxero-ceo"><img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=560&lines=Learning+Python+and+AI+on+a+phone;Building+the+tools+I+actually+use;Writing+lessons+for+other+learners;Building+with+Claude+Code" alt="Learning Python and AI on a phone. Building the tools I actually use."></a>
@@ -20,7 +21,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/learning-Python%20%C2%B7%20AI%20%C2%B7%20MCP-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Learning Python, AI, MCP">
-  <img src="https://img.shields.io/badge/builds%20with-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Builds with Claude Code">
+  <img src="https://img.shields.io/badge/builds%20with-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=Orangered" alt="Builds with Claude Code">
   <img src="https://img.shields.io/badge/from-Thailand-A51931?style=for-the-badge" alt="From Thailand">
   <img src="https://img.shields.io/badge/open%20to-junior%20dev%20roles-2CB67D?style=for-the-badge" alt="Open to junior developer roles">
 </p>
@@ -31,17 +32,17 @@
 </p>
 
 <p align="center">
-  <sub><b>English</b> &middot; <a href="README.th.md">ภาษาไทย</a></sub>
+  <i>English</i> &middot; <a href="README.th.md"><i>ภาษาไทย</i></a>
 </p>
 
 ---
 
-A phone, Termux, and a lot of questions. Most of what's below started as a problem I had, then became something I could share with other learners.
+> A phone, Termux, and a lot of questions. Most of what's below started as a problem I had, then became something I could share with other learners.
 
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,fastapi,sqlite,astro,ts,nodejs,git,github,linux,bash,cloudflare,firebase&perline=8" alt="Python, JavaScript, HTML, CSS, Flask, FastAPI, SQLite, Astro, TypeScript, Node.js, Git, GitHub, Linux, Bash, Cloudflare, Firebase">
+  <img src="https://skillicons.dev/icons?i=go,python,ai,java,js,html,css,md,svg,npm,notion,react,flask,fastapi,sqlite,astro,ts,nodejs,git,github,linux,bash,cloudflare,firebase&perline=8" alt="Python, JavaScript, HTML, CSS, Flask, FastAPI, SQLite, Astro, TypeScript, Node.js, Git, GitHub, Linux, Bash, Cloudflare, Firebase">
 </p>
 
 ## 📌 Featured
@@ -56,8 +57,24 @@ A phone, Termux, and a lot of questions. Most of what's below started as a probl
 </p>
 
 ## 📂 All repositories
+---
+### All 
+- [all-in-one](https://github.com/zetxero-ceo/all-in-one)
+- [budgetctrl](https://github.com/zetxero-ceo/budgetctrl)
+- [Cash-Flow](https://github.com/zetxero-ceo/Cash-Flow)
+- [cash-manager](https://github.com/zetxero-ceo/cash-manager)
+- [cashrc](https://github.com/zetxero-ceo/cashrc)
 
-<details open>
+
+
+
+
+
+
+
+
+
+<details>
 <summary><b>Active (26)</b></summary>
 
 | Repo | What it is | Language | Live |
@@ -70,12 +87,7 @@ A phone, Termux, and a lot of questions. Most of what's below started as a probl
 | [community](https://github.com/zetxero-ceo/community) | Community hub for Saharat Labs — discussions, ideas, and announcements |  |  |
 | [demo-repository](https://github.com/zetxero-ceo/demo-repository) | A code repository designed to show the best GitHub has to offer. | HTML |  |
 | [Diary](https://github.com/zetxero-ceo/Diary) | Thai notes website, written from a phone | TypeScript | [site](https://zetxero-ceo.github.io/Diary/) |
-| [ivenmachine](https://github.com/zetxero-ceo/ivenmachine) | Vending machine toolkit: status, coins, slot map, refill sheets | JavaScript | [site](https://zetxero-ceo.github.io/ivenmachine/) |
-| [learnhtml5](https://github.com/zetxero-ceo/learnhtml5) | Learn HTML5 | HTML | [site](https://zetxero-ceo.github.io/learnhtml5/) |
-| [money-app](https://github.com/zetxero-ceo/money-app) | Income/expense tracker on Cloudflare Workers with MCP | TypeScript |  |
-| [pos-mobile](https://github.com/zetxero-ceo/pos-mobile) | Point of sale + FastAPI backup backend | Python | [site](https://zetxero-ceo.github.io/pos-mobile/) |
-| [project-skills](https://github.com/zetxero-ceo/project-skills) | Skills repository organized by project |  |  |
-| [python](https://github.com/zetxero-ceo/python) | A website for learning Python | JavaScript | [site](https://zetxero-ceo.github.io/python/) |
+| [ivenmachine](https://github.8ceo/python) | A website for learning Python | JavaScript | [site](https://zetxero-ceo.github.io/python/) |
 | [python-lessons](https://github.com/zetxero-ceo/python-lessons) | คอร์สเรียน Python สู่การวิเคราะห์ข้อมูล — 5 บทเรียน พร้อมแบบฝึกหัดและเฉลย | Python | [site](https://zetxero-ceo.github.io/python-lessons/) |
 | [root-home](https://github.com/zetxero-ceo/root-home) | Home directory container with independent projects (Cash-Flow, pos-mobile, shiftmate, python-lessons, time-plan PWA, etc.) | JavaScript |  |
 | [Saharat-labs.github.io](https://github.com/zetxero-ceo/Saharat-labs.github.io) | Official website for Saharat Labs — AI agents, tools, and experiments | HTML | [site](https://zetxero-ceo.github.io/Saharat-labs.github.io/) |

@@ -14,12 +14,10 @@
 
 ## 🗺️ แผนงานที่เหลือ (ทำตามลำดับ)
 
-### ขั้นที่ 1 — ย้าย repo สองตัวสุดท้าย (ตั้งเวลาไว้ 2026-11-19 23:30 น.)
-- [ ] ย้าย `sakzeed/opencode-lab` และ `sakzeed/claude-lab` → `zetxero-main` → `zetxero-ceo`
-- [ ] เช็คเว็บที่ `zetxero-ceo.github.io/opencode-lab/` และ `/claude-lab/` ตอบ 200
-- [ ] แก้ลิงก์ `sakzeed.github.io/...` และ `github.com/sakzeed/...` ใน README ทั้งสองไฟล์ (การ์ด pin + ตาราง repo)
-- [ ] แก้ remote ใน `~/github/opencode-lab`, `~/github/claude-lab`
-- [ ] เอา `sakzeed` ออกจาก org `zetxero-main` (ทำเองที่ github.com/orgs/zetxero-main/people)
+### ขั้นที่ 1 — `opencode-lab` และ `claude-lab`: ไม่ย้าย (ตัดสินใจ 2026-11-19)
+- [x] ยกเลิกการย้าย — สอง repo อยู่ที่ `sakzeed` เว็บอยู่ที่ `sakzeed.github.io/<repo>/` ลิงก์ใน README ถูกต้องอยู่แล้ว
+- [ ] **อย่ากดยอมรับ** อีเมลขอย้ายสองตัวนี้ในกล่องของ zetxero-ceo (คำขอเก่าจะหมดอายุเอง)
+- [ ] เอา `sakzeed` ออกจาก org `zetxero-main` (ทำเองที่ github.com/orgs/zetxero-main/people) — ไม่จำเป็นต้องเป็น admin แล้ว
 
 ### ขั้นที่ 2 — Cloudflare (ทำเองใน dashboard)
 - [ ] Workers & Pages → `portfolio` → Settings → Build: เปลี่ยน repo จาก `sakzeed/sakzeed` เป็น `zetxero-ceo/zetxero-ceo`
@@ -37,8 +35,8 @@
 - [ ] ตัดสินใจเรื่อง `~/portfolio` ในเครื่อง (ยังชี้ repo ของ sakzeed) — ลบ หรือเก็บไว้
 
 ### ขั้นที่ 4 — เอกสาร
-- [x] อัปเดต `~/AUDIT.md` (สถานะหลังรวม repo ไว้ที่ zetxero-ceo) — อัปเดตอีกครั้งหลังขั้นที่ 1
-- [x] อัปเดต `~/CLAUDE.md` (ตารางโปรเจกต์ บัญชี gh, org zetxero-main เหลือ 3 repo) — อัปเดตอีกครั้งหลังขั้นที่ 1
+- [x] อัปเดต `~/AUDIT.md` (สถานะหลังรวม repo ไว้ที่ zetxero-ceo)
+- [x] อัปเดต `~/CLAUDE.md` (ตารางโปรเจกต์ บัญชี gh, org zetxero-main เหลือ 3 repo)
 
 ---
 

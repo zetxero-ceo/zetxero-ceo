@@ -81,59 +81,21 @@ They need a real problem to start from.
 <details open>
 <summary><b>Active (26)</b></summary>
 
-| Repo | What it is | Language | Live |
-|---|---|---|:-:|
-| [all-in-one](https://github.com/zetxero-ceo/all-in-one) | Index of all my projects | HTML | [site](https://zetxero-ceo.github.io/all-in-one/) |
-| [budgetctrl](https://github.com/zetxero-ceo/budgetctrl) | แอปบันทึกการเงิน หนี้สิน งบประมาณ เป้าหมายออม | JavaScript | [site](https://zetxero-ceo.github.io/budgetctrl/) |
-| [Cash-Flow](https://github.com/zetxero-ceo/Cash-Flow) | Personal finance management This was one of my early projects.  | JavaScript | [site](https://zetxero-ceo.github.io/Cash-Flow/) |
-| [cash-manager](https://github.com/zetxero-ceo/cash-manager) | Income, expense and debt tracker (PWA, Firebase) | JavaScript | [site](https://zetxero-ceo.github.io/cash-manager/) |
-| [cashrc](https://github.com/zetxero-ceo/cashrc) | Created via Acode | JavaScript |  |
-| [community](https://github.com/zetxero-ceo/community) | Community hub for Saharat Labs — discussions, ideas, and announcements |  |  |
-| [demo-repository](https://github.com/zetxero-ceo/demo-repository) | A code repository designed to show the best GitHub has to offer. | HTML |  |
-| [Diary](https://github.com/zetxero-ceo/Diary) | Thai notes website, written from a phone | TypeScript | [site](https://zetxero-ceo.github.io/Diary/) |
-| [ivenmachine](https://github.com/zetxero-ceo/ivenmachine) | Vending machine toolkit: status, coins, slot map, refill sheets | JavaScript | [site](https://zetxero-ceo.github.io/ivenmachine/) |
-| [learnhtml5](https://github.com/zetxero-ceo/learnhtml5) | Learn HTML5 | HTML | [site](https://zetxero-ceo.github.io/learnhtml5/) |
-| [money-app](https://github.com/zetxero-ceo/money-app) | Income/expense tracker on Cloudflare Workers with MCP | TypeScript |  |
-| [pos-mobile](https://github.com/zetxero-ceo/pos-mobile) | Point of sale + FastAPI backup backend | Python | [site](https://zetxero-ceo.github.io/pos-mobile/) |
-| [project-skills](https://github.com/zetxero-ceo/project-skills) | Skills repository organized by project |  |  |
-| [python](https://github.com/zetxero-ceo/python) | A website for learning Python | JavaScript | [site](https://zetxero-ceo.github.io/python/) |
-| [python-lessons](https://github.com/zetxero-ceo/python-lessons) | คอร์สเรียน Python สู่การวิเคราะห์ข้อมูล — 5 บทเรียน พร้อมแบบฝึกหัดและเฉลย | Python | [site](https://zetxero-ceo.github.io/python-lessons/) |
-| [root-home](https://github.com/zetxero-ceo/root-home) | Home directory container with independent projects (Cash-Flow, pos-mobile, shiftmate, python-lessons, time-plan PWA, etc.) | JavaScript |  |
-| [Saharat-labs.github.io](https://github.com/zetxero-ceo/Saharat-labs.github.io) | Official website for Saharat Labs — AI agents, tools, and experiments | HTML | [site](https://zetxero-ceo.github.io/Saharat-labs.github.io/) |
-| [salary](https://github.com/zetxero-ceo/salary) | record salary of CPALL | JavaScript | [site](https://zetxero-ceo.github.io/salary/) |
-| [shiftmate](https://github.com/zetxero-ceo/shiftmate) | Weekly staff shift planner | JavaScript | [site](https://zetxero-ceo.github.io/shiftmate/) |
-| [tasky](https://github.com/zetxero-ceo/tasky) | Task manager (Python CLI) | Python |  |
-| [tasky-web](https://github.com/zetxero-ceo/tasky-web) | Task manager (web) | CSS | [site](https://zetxero-ceo.github.io/tasky-web/) |
-| [timein-out](https://github.com/zetxero-ceo/timein-out) | Clock-in / clock-out log | JavaScript | [site](https://zetxero-ceo.github.io/timein-out/) |
-| [vender](https://github.com/zetxero-ceo/vender) | Offline-first vending stock manager | JavaScript | [site](https://zetxero-ceo.github.io/vender/) |
-| [zetxero-ceo](https://github.com/zetxero-ceo/zetxero-ceo) | This profile + portfolio website | HTML | [site](https://zetxero-ceo.github.io/zetxero-ceo/) |
-| [claude-lab](https://github.com/sakzeed/claude-lab) | Thai lessons: AI, agents, MCP, skills, hooks, plugins | Python | [site](https://sakzeed.github.io/claude-lab/) |
-| [opencode-lab](https://github.com/sakzeed/opencode-lab) | Lessons: OpenCode, Linux, Git, Go | Go | [site](https://sakzeed.github.io/opencode-lab/) |
+[all-in-one](https://github.com/zetxero-ceo/all-in-one) · [budgetctrl](https://github.com/zetxero-ceo/budgetctrl) · [Cash-Flow](https://github.com/zetxero-ceo/Cash-Flow) · [cash-manager](https://github.com/zetxero-ceo/cash-manager) · [cashrc](https://github.com/zetxero-ceo/cashrc) · [community](https://github.com/zetxero-ceo/community) · [demo-repository](https://github.com/zetxero-ceo/demo-repository) · [Diary](https://github.com/zetxero-ceo/Diary) · [ivenmachine](https://github.com/zetxero-ceo/ivenmachine) · [learnhtml5](https://github.com/zetxero-ceo/learnhtml5) · [money-app](https://github.com/zetxero-ceo/money-app) · [pos-mobile](https://github.com/zetxero-ceo/pos-mobile) · [project-skills](https://github.com/zetxero-ceo/project-skills) · [python](https://github.com/zetxero-ceo/python) · [python-lessons](https://github.com/zetxero-ceo/python-lessons) · [root-home](https://github.com/zetxero-ceo/root-home) · [Saharat-labs.github.io](https://github.com/zetxero-ceo/Saharat-labs.github.io) · [salary](https://github.com/zetxero-ceo/salary) · [shiftmate](https://github.com/zetxero-ceo/shiftmate) · [tasky](https://github.com/zetxero-ceo/tasky) · [tasky-web](https://github.com/zetxero-ceo/tasky-web) · [timein-out](https://github.com/zetxero-ceo/timein-out) · [vender](https://github.com/zetxero-ceo/vender) · [zetxero-ceo](https://github.com/zetxero-ceo/zetxero-ceo) · [claude-lab](https://github.com/sakzeed/claude-lab) · [opencode-lab](https://github.com/sakzeed/opencode-lab)
 
 </details>
 
 <details>
 <summary><b>Forks (3)</b></summary>
 
-| Repo | What it is | Language | Live |
-|---|---|---|:-:|
-| [member-team](https://github.com/zetxero-ceo/member-team) | Fork: MERN team member app | JavaScript |  |
-| [opencode-sentry-monitor](https://github.com/zetxero-ceo/opencode-sentry-monitor) | Use Sentry Agent Monitoring to add observability to your Opencode | TypeScript |  |
-| [packaging.python.org](https://github.com/zetxero-ceo/packaging.python.org) | Python Packaging User Guide | Python |  |
+[member-team](https://github.com/zetxero-ceo/member-team) · [opencode-sentry-monitor](https://github.com/zetxero-ceo/opencode-sentry-monitor) · [packaging.python.org](https://github.com/zetxero-ceo/packaging.python.org)
 
 </details>
 
 <details>
 <summary><b>Archived (6)</b></summary>
 
-| Repo | What it is | Language | Live |
-|---|---|---|:-:|
-| [budget](https://github.com/zetxero-ceo/budget) | Merged into Cash-Flow | HTML | [site](https://zetxero-ceo.github.io/budget/) |
-| [portfolio](https://github.com/zetxero-ceo/portfolio) | Moved into zetxero-ceo | HTML |  |
-| [POS_MB](https://github.com/zetxero-ceo/POS_MB) | Personal Store tracker | HTML | [site](https://zetxero-ceo.github.io/POS_MB/) |
-| [project](https://github.com/zetxero-ceo/project) |  |  |  |
-| [vending-status](https://github.com/zetxero-ceo/vending-status) | Merged into ivenmachine | HTML | [site](https://zetxero-ceo.github.io/vending-status/) |
-| [zetxero-info](https://github.com/zetxero-ceo/zetxero-info) |  |  |  |
+[budget](https://github.com/zetxero-ceo/budget) · [portfolio](https://github.com/zetxero-ceo/portfolio) · [POS_MB](https://github.com/zetxero-ceo/POS_MB) · [project](https://github.com/zetxero-ceo/project) · [vending-status](https://github.com/zetxero-ceo/vending-status) · [zetxero-info](https://github.com/zetxero-ceo/zetxero-info)
 
 </details>
 

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
   <title id="title">ZETXERO Z mark</title>
-  <desc id="desc">A bold geometric white Z emblem on a black background.</desc>
-  <rect width="512" height="512" rx="96" fill="#000"/>
-  <g fill="#fff">
+  <desc id="desc">A bold geometric black Z emblem on a #00000000 background.</desc>
+  <rect width="512" height="512" rx="96" fill="#858ef000"/>
+  <g fill="#000000">
     <path d="M92 112h328l-18 52-213 184h231l-18 52H76l18-52 213-184H74z"/>
     <path d="M108 126h267l-34 27H139z" opacity=".18"/>
     <path d="M139 386h267l-34 14H122z" opacity=".18"/>

@@ -39,6 +39,26 @@
 
 A phone, Termux, and a lot of questions. Most of what's below started as a problem I had, then became something I could share with other learners.
 
+## 👋 About Me
+
+I don't own a computer, so I learned to code on a phone.
+Termux open, Claude on the other side, one question at a time.
+What started with a `print("Hello")` that wouldn't run is now Flask sites,
+apps on Cloudflare, and AI agents that help me every day.
+
+I believe good tools don't need expensive hardware.
+They need a real problem to start from.
+
+| | |
+|---|---|
+| 🔭 **Working on** | A stock-research assistant built from several AI agents running in parallel |
+| 📖 **Learning** | Intermediate Python, MCP, agent design |
+| ✍️ **Sharing** | Python lessons in Thai for people starting from zero |
+| 🎯 **Goal** | A junior developer role next year |
+| 💬 **Ask me about** | Coding on a phone, Claude Code, Flask, small apps for everyday use |
+
+> "Start where you are. Use what you have. Do what you can."
+
 ## 🛠️ Stack
 
 <p align="center">

@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/learning-Python%20%C2%B7%20AI%20%C2%B7%20MCP-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Learning Python, AI, MCP">
   <img src="https://img.shields.io/badge/builds%20with-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Builds with Claude Code">
   <img src="https://img.shields.io/badge/from-Thailand-A51931?style=for-the-badge" alt="From Thailand">
-  <img src="https://img.shields.io/badge/open%20to-junior%20dev%20roles-2CB67D?style=for-the-badge" alt="Open to junior developer roles">
 </p>
 
 <p align="center">

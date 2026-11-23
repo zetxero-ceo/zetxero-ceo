@@ -226,7 +226,7 @@ They need a real problem to start from.
     <img src="https://cdn.simpleicons.org/threads/FFFFFF" width="32" alt="Threads">
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/itsmelik_yok" title="X">
+  <a href="https://x.com/zetxero" title="X">
     <img src="https://cdn.simpleicons.org/x/FFFFFF" width="32" alt="X">
   </a>
   &nbsp;&nbsp;

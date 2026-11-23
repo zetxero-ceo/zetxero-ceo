@@ -52,9 +52,9 @@ They need a real problem to start from.
 | | |
 |---|---|
 | 🔭 **Working on** | A stock-research assistant built from several AI agents running in parallel |
-| 📖 **Learning** | Intermediate Python, MCP, agent design |
+| 📖 **Learning** | Python fundamentals (currently loops) — understanding how code really works |
 | ✍️ **Sharing** | Python lessons in Thai for people starting from zero |
-| 🎯 **Goal** | A junior developer role next year |
+| 🎯 **Goal** | Financial freedom and my own tech / Data Center business |
 | 💬 **Ask me about** | Coding on a phone, Claude Code, Flask, small apps for everyday use |
 
 > "Start where you are. Use what you have. Do what you can."

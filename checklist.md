@@ -28,7 +28,7 @@
 
 ### ขั้นที่ 3 — เนื้อหาที่ต้องตัดสินใจ
 - [ ] ใส่ลิงก์จริงแทน `#` 17 ตัวในส่วนติดต่อ (GitLab, Freelancer, Behance, Product Hunt, AI 6 ตัว, Pinterest, Reddit, WhatsApp, Messenger, Slack, Signal, Twitch) หรือลบตัวที่ไม่มีบัญชี
-- [ ] คำอธิบาย repo `salary` ("record salary of CPALL") บอกชื่อนายจ้าง — เปลี่ยนใน Settings ของ repo ถ้าไม่อยากเปิดเผย แล้วแก้ตาราง repo
+- [x] คำอธิบาย repo `salary` ("record salary of CPALL") บอกชื่อนายจ้าง — แก้แล้ว 2026-11-25 เป็น "เว็บบันทึกเงินเดือนส่วนตัว" (ตาราง README ลิสต์เป็นชื่อลิงก์ ไม่มีคำอธิบาย จึงไม่ต้องแก้)
 - [x] แปล `README.th.md` ให้เป็นไทยจริง (ข้อความพิมพ์เอง คำอธิบาย repo หัวข้อส่วนติดต่อ)
 - [ ] เว็บพอร์ตโฟลิโอ: ป้าย "พร้อมรับงานใหม่" / "ติดต่อจ้างงาน" เน้นฟรีแลนซ์ — ปรับให้ตรงกับเป้าหางานจูเนียร์ถ้าต้องการ
 - [ ] บล็อกมีแค่ `hello.md` (บทความตั้งต้นของ template) — เขียนบทความแรกจริง
@@ -108,3 +108,18 @@ grep -nE "TODO|YOUR_|SKILL_IDS|href=\"#\"" README.md README.th.md
 # เทียบจำนวนบรรทัดของสองภาษา
 wc -l README.md README.th.md
 ```
+
+---
+
+## 📝 บันทึกงานวันนี้ (2026-11-25)
+
+หน้าโปรไฟล์ (README EN + TH แก้คู่กันทุกครั้ง):
+- About Me: Goal → "อิสระทางการเงิน + ธุรกิจ Data Center", Learning → "Python พื้นฐาน (ตอนนี้ถึง loop)"
+- ลบ badge "open to junior dev roles" ออก
+- ลิงก์ X → `x.com/zetxero`
+- merge PR #4 (branch `beta`) แบบเลือกของดี: `<em>ZETXERO</em>` (แก้แท็ก h1 ที่เพี้ยน), โลโก้กว้าง 150, badge Claude Code สี Orangered, สลับภาษาเป็น italic, บรรทัดเกริ่นเป็น blockquote, เพิ่มไอคอน Stack (go, ai, java, react, notion ...) — คงตาราง repo ของ main ไว้ (ข้ามเวอร์ชันค้างของ beta)
+- ลบ branch `beta` (merged แล้ว), sync สไตล์ทั้งหมดลง `README.th.md` ให้ตรงกับ EN
+
+repo อื่น:
+- `salary`: แก้ description ตัดชื่อนายจ้างออก (ดูด้านบน)
+- `money-app`: rename branch `claude/new-session-vddulo` → `main` (ตั้ง default ให้อัตโนมัติ) และ merge ฟีเจอร์งบประมาณ (PR #1: service + API + MCP + UI, เทสต์ 27/27 ผ่าน) — บันทึกไว้ใน `~/AUDIT.md` ด้วย

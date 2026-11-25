@@ -7,13 +7,12 @@
       srcset="assets/zetxero-z-monochrome.svg">
     <img
       src="assets/zetxero-z-monochrome.svg"
-      width="120"
+      width="150"
       alt="ZETXERO Logo">
   </picture>
 </p>
 
-<h1 align="center">
-<div font-size="150px">ZETXERO</h1>
+<h1 align="center"><em>ZETXERO</em></h1>
 
 <p align="center">
   <a href="https://github.com/zetxero-ceo"><img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=560&lines=Learning+Python+and+AI+on+a+phone;Building+the+tools+I+actually+use;Writing+lessons+for+other+learners;Building+with+Claude+Code" alt="Learning Python and AI on a phone. Building the tools I actually use."></a>
@@ -21,7 +20,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/learning-Python%20%C2%B7%20AI%20%C2%B7%20MCP-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Learning Python, AI, MCP">
-  <img src="https://img.shields.io/badge/builds%20with-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Builds with Claude Code">
+  <img src="https://img.shields.io/badge/builds%20with-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=Orangered" alt="Builds with Claude Code">
   <img src="https://img.shields.io/badge/from-Thailand-A51931?style=for-the-badge" alt="From Thailand">
 </p>
 
@@ -31,12 +30,12 @@
 </p>
 
 <p align="center">
-  <sub><b>English</b> &middot; <a href="README.th.md">ภาษาไทย</a></sub>
+  <i>English</i> &middot; <a href="README.th.md"><i>ภาษาไทย</i></a>
 </p>
 
 ---
 
-A phone, Termux, and a lot of questions. Most of what's below started as a problem I had, then became something I could share with other learners.
+> A phone, Termux, and a lot of questions. Most of what's below started as a problem I had, then became something I could share with other learners.
 
 ## 👋 About Me
 
@@ -61,7 +60,7 @@ They need a real problem to start from.
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,fastapi,sqlite,astro,ts,nodejs,git,github,linux,bash,cloudflare,firebase&perline=8" alt="Python, JavaScript, HTML, CSS, Flask, FastAPI, SQLite, Astro, TypeScript, Node.js, Git, GitHub, Linux, Bash, Cloudflare, Firebase">
+  <img src="https://skillicons.dev/icons?i=go,python,ai,java,js,html,css,md,svg,npm,notion,react,flask,fastapi,sqlite,astro,ts,nodejs,git,github,linux,bash,cloudflare,firebase&perline=8" alt="Python, JavaScript, HTML, CSS, Flask, FastAPI, SQLite, Astro, TypeScript, Node.js, Git, GitHub, Linux, Bash, Cloudflare, Firebase">
 </p>
 
 ## 📌 Featured

@@ -7,12 +7,12 @@
       srcset="assets/zetxero-z-monochrome.svg">
     <img
       src="assets/zetxero-z-monochrome.svg"
-      width="120"
+      width="150"
       alt="ZETXERO Logo">
   </picture>
 </p>
 
-<h1 align="center">ZETXERO</h1>
+<h1 align="center"><em>ZETXERO</em></h1>
 
 <p align="center">
   <a href="https://github.com/zetxero-ceo"><img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=600&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&width=560&lines=%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99+Python+%E0%B9%81%E0%B8%A5%E0%B8%B0+AI+%E0%B8%9A%E0%B8%99%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%96%E0%B8%B7%E0%B8%AD;%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87;%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99;%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%9A+Claude+Code" alt="เรียน Python และ AI บนมือถือ สร้างเครื่องมือที่ได้ใช้จริง"></a>
@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/learning-Python%20%C2%B7%20AI%20%C2%B7%20MCP-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Learning Python, AI, MCP">
-  <img src="https://img.shields.io/badge/builds%20with-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Builds with Claude Code">
+  <img src="https://img.shields.io/badge/builds%20with-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=Orangered" alt="Builds with Claude Code">
   <img src="https://img.shields.io/badge/from-Thailand-A51931?style=for-the-badge" alt="From Thailand">
 </p>
 
@@ -30,12 +30,12 @@
 </p>
 
 <p align="center">
-  <sub><a href="README.md">English</a> &middot; <b>ภาษาไทย</b></sub>
+  <a href="README.md"><i>English</i></a> &middot; <i>ภาษาไทย</i>
 </p>
 
 ---
 
-มือถือ Termux และคำถามอีกเยอะ งานข้างล่างส่วนใหญ่เริ่มจากปัญหาที่เจอเอง แล้วกลายเป็นของที่แบ่งให้คนเรียนด้วยกันได้
+> มือถือ Termux และคำถามอีกเยอะ งานข้างล่างส่วนใหญ่เริ่มจากปัญหาที่เจอเอง แล้วกลายเป็นของที่แบ่งให้คนเรียนด้วยกันได้
 
 ## 👋 เกี่ยวกับฉัน
 
@@ -60,7 +60,7 @@
 ## 🛠️ เครื่องมือที่ใช้
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,fastapi,sqlite,astro,ts,nodejs,git,github,linux,bash,cloudflare,firebase&perline=8" alt="Python, JavaScript, HTML, CSS, Flask, FastAPI, SQLite, Astro, TypeScript, Node.js, Git, GitHub, Linux, Bash, Cloudflare, Firebase">
+  <img src="https://skillicons.dev/icons?i=go,python,ai,java,js,html,css,md,svg,npm,notion,react,flask,fastapi,sqlite,astro,ts,nodejs,git,github,linux,bash,cloudflare,firebase&perline=8" alt="Python, JavaScript, HTML, CSS, Flask, FastAPI, SQLite, Astro, TypeScript, Node.js, Git, GitHub, Linux, Bash, Cloudflare, Firebase">
 </p>
 
 ## 📌 ผลงานเด่น
